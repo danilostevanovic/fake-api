@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "usr1",
       "username": "nene@example.com",
       "password": "nene123",
       "displayName": "Nene",
@@ -17,7 +17,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "usr2",
       "username": "dani@example.com",
       "password": "dani123",
       "displayName": "Dani",
@@ -30,6 +30,24 @@
         "dep1",
         "dep2"
       ]
+    }
+  ],
+  "departments": [
+    {
+      "id": "dep1",
+      "description": "Department 1",
+      "displayName": "Department 1",
+      "location": "loc1",
+      "headOfDepartment": "usr1",
+      "devices": []
+    },
+    {
+      "id": "dep2",
+      "description": "Department 2",
+      "displayName": "Department 2",
+      "location": "loc1",
+      "headOfDepartment": "usr1",
+      "devices": []
     }
   ]
 }
