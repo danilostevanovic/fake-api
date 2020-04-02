@@ -8,6 +8,7 @@
       "dateOfBirth": "2019-01-01",
       "phone": "123456",
       "email": "nene@example.com",
+      "role": "user",
       "jobPosition": "pos1",
       "departments": [
         "dep1",
@@ -23,6 +24,7 @@
       "dateOfBirth": "2019-01-01",
       "phone": "12345679",
       "email": "dani@example.com",
+      "role": "user",
       "jobPosition": "pos2",
       "departments": [
         "dep1",
