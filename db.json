@@ -1,32 +1,32 @@
 {
-  users: [
+  "users": [
     {
-      id: 1,
-      username: 'nene@example.com',
-      password: 'nene123',
-      displayName: 'Nene',
-      dateOfBirth: '2019-01-01',
-      phone: '123456',
-      email: 'nene@example.com',
-      jobPosition: 'pos1',
-      departments: [
-        'dep1',
-        'dep2',
-        'dep3'
+      "id": 1,
+      "username": "nene@example.com",
+      "password": "nene123",
+      "displayName": "Nene",
+      "dateOfBirth": "2019-01-01",
+      "phone": "123456|,
+      "email": "nene@example.com",
+      "jobPosition": "pos1",
+      "departments": [
+        "dep1",
+        "dep2",
+        "dep3"
       ]
     },
     {
-      id: 2,
-      username: 'dani@example.com',
-      password: 'dani123',
-      displayName: 'Dani',
-      dateOfBirth: '2019-01-01',
-      phone: '12345679',
-      email: 'dani@example.com',
-      jobPosition: 'pos2',
-      departments: [
-        'dep1',
-        'dep2'
+      "id": 2,
+      "username": "dani@example.com",
+      "password": "dani123",
+      "displayName": "Dani",
+      "dateOfBirth": "2019-01-01",
+      "phone": "12345679,
+      "email": "dani@example.com",
+      "jobPosition": "pos2",
+      "departments": [
+        "dep1",
+        "dep2"
       ]
     }
   ]
