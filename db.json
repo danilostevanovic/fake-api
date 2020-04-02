@@ -1,4 +1,15 @@
 {
+  "companies": [
+    {
+      "id": "com1",
+      "name": "Company 1",
+      "address": "Address 123",
+      "country": "Serbia",
+      "city": "Belgrade",
+      "phone": "12341241241",
+      "email": "company1@firstcompany.com"
+    }
+  ],
   "users": [
     {
       "id": "usr1",
@@ -49,5 +60,8 @@
       "headOfDepartment": "usr1",
       "devices": []
     }
+  ],
+  "devices": [
+    {}
   ]
 }
